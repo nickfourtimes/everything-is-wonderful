@@ -13,10 +13,11 @@ The visual style was influenced by the glyphs in [ZZT](https://en.wikipedia.org/
 
 Running a LÖVE game from source is fairly straightforward:
 * Install the [LÖVE executables](https://love2d.org/)
-* Create a zip file with the included .lua files and asset directory at the root of the zip
+* Create a zip file with the .lua files and asset directory (from this repository) at the root of the zip
 * Change the zip file's extension from .zip to .love
 * On Windows, drag the newly-created .love file onto the love.exe launcher
   * You might need to install some extra libraries (SDL in particular), but that is outside the scope of this document
+
 Further documentation available [here](https://love2d.org/wiki/Game_Distribution).
 
 ## Controls
