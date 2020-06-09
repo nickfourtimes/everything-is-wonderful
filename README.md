@@ -1,6 +1,8 @@
 # Everything is Wonderful
 
 ## About
+_[cw for violent imagery]_
+
 _Everything is Wonderful_ is a small game I made in a week in 2014 to experiment with [LÖVE](https://love2d.org/).
 
 The player is constrained to a small space and subject to random inspections, until they can collect components for a bomb and liberate themselves and the guards.
