@@ -1,6 +1,7 @@
 # Everything is Wonderful
 
 ## About
+
 _[cw for violent imagery]_
 
 _Everything is Wonderful_ is a small game I made in a week in 2014 to experiment with [LÖVE](https://love2d.org/).
@@ -22,16 +23,19 @@ Running a LÖVE game from source is fairly straightforward:
 
 Further documentation available [here](https://love2d.org/wiki/Game_Distribution).
 
-## Controls
-* Arrow keys: move your character around
-
 ## Rules & Conditions
+
 * Don't let the inspectors catch you out of bounds
 * Wait for your hidey-hole to appear (it will be out of bounds)
 * Pick up items and place them in the hidey-hole (when no one is around)
 * Once you've assembled your final package, wait for an inspection.
 
+## Controls
+
+* Arrow keys: move your character around
+
 ## Links
+
 * The original version of the game is available on [itch.io](https://nicknicknicknick.itch.io/everything-is-wonderful)
 
 ## History
@@ -39,3 +43,8 @@ Further documentation available [here](https://love2d.org/wiki/Game_Distribution
   * Initial release
 * v1.1 (9 June 2020)
   * Public release
+
+---
+
+Drink pairing: Red wine (French)  
+Music pairing: [Moonlight Sonata](http://en.wikipedia.org/wiki/Piano_Sonata_No._14_(Beethoven)), Beethoven
